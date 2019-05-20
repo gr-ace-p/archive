@@ -37,7 +37,7 @@ Una installazione, volta a sensibilizzare le famiglie delle persona affette da a
 
 **How does it woks?**
 
-Uno specchio, situato lungo una zona di passaggio obbligato per i parenti dei pazienti. Al passaggio delle persone riflette la loro immagine che man mano che si persorre lo specchio diventa sempre più sfocata e confusa. Se ci si ferma lo specchio non riflette nulla, passando però, esso rileva la persona e mostra la sagoma di un'altra.
+Uno specchio, situato lungo una zona di passaggio obbligato per i parenti dei pazienti. Al passaggio delle persone riflette la loro immagine che man mano che si percorre lo specchio diventa sempre più sfocata e confusa. Se ci si ferma lo specchio non riflette nulla, passando però, esso rileva la persona e mostra la sagoma di un'altra.
 ***
 
 

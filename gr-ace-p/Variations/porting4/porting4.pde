@@ -6,10 +6,6 @@
 // —
 
 
-
-
-
-
 int w = 16;
     int h = 16;
     int index = 0;

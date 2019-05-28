@@ -1,7 +1,7 @@
 ### 10 PRINT 
 ##### Porting_01
 
-![Imgur](https://i.imgur.com/DdGXFKv.png)
+![Imgur](https://i.imgur.com/z400H9v.png)
 
 
 

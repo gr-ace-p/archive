@@ -30,7 +30,7 @@ Se ogni asta avesse avuto luci led di colori differenti in base alla potenza del
 Se fossero stati mostrati i punti della città __non__ coperti da rete WiFi sarebbe cambiato il significato?
 
 ### Progetti analoghi
-[+](https://philippschmitt.com/work/lightpainting)
+#### Location-based Light Painting [+](https://philippschmitt.com/work/lightpainting)
 ![imgur](https://i.imgur.com/yzE1YNm.png)
 
 

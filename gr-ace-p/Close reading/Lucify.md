@@ -26,8 +26,8 @@ Se anzichè mostrare quali sono i paesi interessati attraverso una cartina fosse
 Se l’infografica fosse stata realizzata da chi proviene dai paesi che vengono lasciati? Avrebbero messo in relazione altri dati?
 Se l'infografica mostrasse anche il numero di migranti che non sopravvivono al viaggio?
 
-Progetti analoghi
-Immigrazione negli Stati Uniti [+](https://www.quantitas.it/immigrazione_us_dataviz/)
+###Progetti analoghi
+####Immigrazione negli Stati Uniti [+](https://www.quantitas.it/immigrazione_us_dataviz/)
 ![imgur](https://i.imgur.com/EeTpgPq.png)
 ![imgur](https://i.imgur.com/XqybUI9.png)
 

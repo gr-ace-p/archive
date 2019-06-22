@@ -1,4 +1,4 @@
-## _Immaterial: Light painting WiFi_ , 2012, Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen <h2>
+### _Immaterial: Light painting WiFi_ , 2012, Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen <h2>
 ###### #immaterialità #invisibilità #materialità #continuità #luminosità
 ![imgur](https://i.imgur.com/bX3OVDI.jpg)  
   
@@ -28,9 +28,9 @@ Se fossero stati mostrati i punti della città __non__ coperti da rete WiFi sare
 
 ### Progetti analoghi
 #### Location-based Light Painting [+](https://philippschmitt.com/work/lightpainting)
+Per qualsiasi città, migliaia di foto georeferenziate sono disponibili online. Il progetto mappa queste foto nei luoghi in cui sono state scattate. I punti in cui queste sono state scattate, vengono illuminati con luci flash e fotografate nella posizione geografica corrente.
+
 ![imgur](https://i.imgur.com/yzE1YNm.png)
-
-
 
 #### __Fonti__ 
 [+](http://yourban.no/2011/02/22/immaterials-light-painting-wifi/)

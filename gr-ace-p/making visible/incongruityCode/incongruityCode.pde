@@ -1,3 +1,12 @@
+// -
+// Incongruity by GraziaPestillo [depth, incomprehensibility, discrepancy]
+// 2019 © Grazia Pestillo, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// github.com/dsii-2019-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2019, San Marino
+// —
+
+
+
 import peasy.PeasyCam;
 import processing.video.*;
 import gab.opencv.*;
